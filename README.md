@@ -583,20 +583,32 @@ That apparent contradiction is actually the governing principle.
 
 Across the entire piece, several oppositions repeatedly emerge:
 
-Surface	Underlying
+Surface	→ Underlying
 
-volume	substance
-praise	earned value
-crown	capability
-heat	intrinsic signal
-speed	depth
-polish	truth
-effort	result
-shortcut	displaced cost
-comfort	sight
-answer	process
-presentation	test
-status	proof
+volume	→ substance
+
+praise	→ earned value
+
+crown	→ capability
+
+heat	→ intrinsic signal
+
+speed	→ depth
+
+polish	→ truth
+
+effort	→ result
+
+shortcut	→ displaced cost
+
+comfort	→ sight
+
+answer	→ process
+
+presentation	→ test
+
+status	→ proof
+
 
 
 [Likely] Almost everything in the song is an attempt to prevent one column from masquerading as the other.
